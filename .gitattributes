@@ -1,0 +1,8 @@
+*               text=auto eol=lf
+*.text          text      eol=lf
+*.xml           text      eol=lf
+*.ahk           text      eol=lf
+*.exe           binary
+*.dll           binary
+*.exer.dll      binary
+*.ico           binary

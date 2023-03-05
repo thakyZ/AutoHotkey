@@ -1,0 +1,9 @@
+[submodule "AHK-Studio"]
+	path = AHK-Studio
+	url = https://github.com/maestrith/AHK-Studio.git
+[submodule "GUI_Creator"]
+	path = GUI_Creator
+	url = https://github.com/maestrith/GUI_Creator.git
+[submodule "AHK-Studio-Plugins"]
+	path = AHK-Studio-Plugins
+	url = https://github.com/maestrith/AHK-Studio-Plugins.git

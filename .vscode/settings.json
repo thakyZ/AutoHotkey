@@ -1,0 +1,24 @@
+{
+  "files.exclude": {
+    "**/.git"     : true,
+    "**/.svn"     : true,
+    "**/.hg"      : true,
+    "**/CVS"      : true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+  },
+  "cSpell.ignorePaths": [
+    "package-lock.json",
+    "node_modules",
+    "vscode-extension",
+    ".git/objects",
+    ".vscode",
+    ".vscode-insiders",
+    "*.exe"
+  ],
+  "search.useIgnoreFiles": true, 
+  "[xml]": {
+    "editor.autoClosingBrackets": "never", 
+    "files.trimFinalNewlines": false
+  }
+}
